@@ -1,0 +1,1 @@
+{"name":"casa-serena-3d","private":true,"version":"1.0.0","type":"module","scripts":{"build":"esbuild src/house.js --bundle --minify --outfile=bundle.js --format=iife","shot":"node tools/screenshot.mjs"},"dependencies":{"esbuild":"^0.25.10","playwright-core":"^1.55.0","three":"^0.180.0"}}
